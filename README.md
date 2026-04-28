@@ -109,14 +109,6 @@ and compare actual vs counterfactual gold price trajectories.
 - Streamlit
 - Yahoo Finance API
 
-## Project Type
-
-Academic Research Project  
-Risk and Fraud Analytics (MGT3013)
-
-Integrated M.Tech – Computer Science and Business Analytics  
-:contentReference[oaicite:0]{index=0}
-
 ## Research Contribution
 
 This project contributes a regime-comparative empirical framework for post-pandemic gold tail risk analysis and provides practical insights for:
